@@ -1,0 +1,158 @@
+{
+    "Opciones": [
+        {
+            "id": 1,
+            "nombre": "Casa",
+            "estado": true
+        },
+        {
+            "id": 2,
+            "nombre": "Trabajo",
+            "estado": true
+        },
+        {
+            "id": 3,
+            "nombre": "Escuela",
+            "estado": true
+        },
+        {
+            "id": 4,
+            "nombre": "Gimnacio",
+            "estado": true
+        },
+        {
+            "id": 5,
+            "nombre": "Calle",
+            "estado": true
+        },
+        {
+            "id": 6,
+            "nombre": "Tienda",
+            "estado": true
+        }
+    ],
+    "OpcionesSecundarias": [
+        {
+            "idOpcSec": 1,
+            "nombre": "Cocina",
+            "estado": true,
+            "refencia": 1
+        },
+        {
+            "idOpcSec": 2,
+            "nombre": "Sala",
+            "estado": true,
+            "refencia": 1
+        },
+        {
+            "idOpcSec": 3,
+            "nombre": "Cochera",
+            "estado": true,
+            "refencia": 1
+        },
+        {
+            "idOpcSec": 4,
+            "nombre": "Comedor",
+            "estado": true,
+            "refencia": 1
+        },
+        {
+        "idOpcSec": 5,
+        "nombre": "Recamara",
+        "estado": true,
+        "refencia": 1
+        },
+        {
+            "idOpcSec": 6,
+            "nombre": "Baño",
+            "estado": true,
+            "refencia": 1
+        },
+        {
+            "idOpcSec": 20,
+            "nombre": "Oficina",
+            "estado": true,
+            "refencia": 2
+        },
+        {
+            "idOpcSec": 21,
+            "nombre": "Sala",
+            "estado": true,
+            "refencia": 2
+        }
+    ],
+    "Actividades": [
+        {
+            "idOpcAct": 1,
+            "nombre": "Cocinar",
+            "estado": true,
+            "refencia": 1
+        },
+        {
+            "idOpcAct": 2,
+            "nombre": "Lavar trastes",
+            "estado": true,
+            "refencia": 1
+        },
+        {
+            "idOpcAct": 3,
+            "nombre": "Ver TV",
+            "estado": true,
+            "refencia": 2
+        },
+        {
+            "idOpcAct": 4,
+            "nombre": "Jugar videojuegos",
+            "estado": true,
+            "refencia": 2
+        },
+        {
+            "idOpcAct": 5,
+            "nombre": "Ver TV",
+            "estado": true,
+            "refencia": 3
+        },
+        {
+            "idOpcAct": 6,
+            "nombre": "Jugar videojuegos",
+            "estado": true,
+            "refencia": 3
+        },
+        {
+            "idOpcAct": 7,
+            "nombre": "Ver TV",
+            "estado": true,
+            "refencia": 4
+        },
+        {
+            "idOpcAct": 8,
+            "nombre": "Jugar videojuegos",
+            "estado": true,
+            "refencia": 4
+        },
+        {
+            "idOpcAct": 9,
+            "nombre": "Trabajar",
+            "estado": true,
+            "refencia": 5
+        },
+        {
+            "idOpcAct": 10,
+            "nombre": "Tomar café",
+            "estado": true,
+            "refencia": 5
+        },
+        {
+            "idOpcAct": 11,
+            "nombre": "Ver TV3",
+            "estado": true,
+            "refencia": 6
+        },
+        {
+            "idOpcAct": 12,
+            "nombre": "Reunión3",
+            "estado": true,
+            "refencia": 6
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+name: ejemplocodec
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_local_notifications: ^13.0.0
+  flutter_blue: ^0.8.0
+  permission_handler: ^10.2.0
+  flutter_beacon: ^0.5.1
+  ml_linalg: ^13.11.28
+  beacon_broadcast: ^0.3.1
+  cloud_firestore: ^4.3.1
+  device_info: ^2.0.3
+  geolocator: ^9.0.2
+  uuid: ^3.0.7
+  random_string: ^2.3.1
+  provider: ^6.0.5
+  intl: ^0.17.0
+  shared_preferences: ^2.0.17
+  wakelock: ^0.6.2
+  android_intent_plus: ^3.1.5
+  firebase_core: ^2.4.1
+  sqflite: ^2.2.4+1
+  get: ^4.6.5
+  beacons_plugin:
+  mysql1: ^0.20.0
+  google_fonts: ^4.0.4
+  
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+  assets:
+    - assets/logos/
+    - assets/menu.json
+
